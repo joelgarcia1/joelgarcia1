@@ -4,7 +4,8 @@
 -  My expected Graduating month is December 2022
 -  I’m looking for a position that is based on FPGA related 
 -  To reach me, my contact is
-   email:joel.garciavalencia1@gmail.com
+   email:joel.garciavalencia1@gmail.com  
+   
    linkedin:linkedin.com/in/joelgarciavalencia/
 
 <!---
