@@ -1,4 +1,4 @@
-# I’m @joelgarcia1 (Joel Garcia Valencia), Welcome to my github
+# I’m Joel Garcia Valencia, Welcome to my github
 
 -  I’m majoring in Computer Engineering at California State University of Northridge
 -  My expected Graduating month is December 2022
