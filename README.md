@@ -1,8 +1,7 @@
 # I’m Joel Garcia Valencia, Welcome to my github
 
--  I’m majoring in Computer Engineering at California State University of Northridge
--  My expected Graduating month is December 2022
--  I’m looking for a position that is based on FPGA related 
+-  Graduated California State University of Northridge as a Computer Engineer in the year of 2022
+-  Currently positioned as a Product Assurance Test Engineer I
 -  To reach me, my contact is:
   
    email: joel.garciavalencia1@gmail.com  
