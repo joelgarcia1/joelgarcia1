@@ -1,6 +1,6 @@
 # I’m Joel Garcia Valencia, Welcome to my github
 
--  Graduated California State University of Northridge as a Computer Engineer in the year of 2022
+-  Graduated California State University of Northridge as a Computer Engineer 
 -  Currently positioned as a Product Assurance Test Engineer I
 -  To reach me, my contact is:
   
