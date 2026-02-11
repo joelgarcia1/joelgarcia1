@@ -1,9 +1,9 @@
 # I’m Joel Garcia Valencia, Welcome to my github
 
 -  Graduated California State University of Northridge as a Computer Engineer 
--  To reach me, my contact is:
+-  To reach me, use my email below.
   
-   email: joel.garciavalencia1@gmail.com  
+ joel.garciavalencia1@gmail.com  
    
   
 
